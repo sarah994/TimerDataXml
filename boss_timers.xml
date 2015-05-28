@@ -10,7 +10,7 @@
    <pre>Eliminate the cannons at the northern defensive tower</pre>
    <pre_location> Laughing Gull Island </pre_location>
    <pre_waypoint>[&amp;BKgBAAA=]</pre_waypoint>
-   <image_boss> </image_boss>
+   <image_boss>/Images/TaidhaCovington_boss.jpg</image_boss>
  </boss>
 
  <boss>
@@ -22,7 +22,7 @@
    <pre>Protect Tor the Tall's supplies from the grawl</pre>
    <pre_location>Hunter's Lake</pre_location>
    <pre_waypoint>[&amp;BMIDAAA=]</pre_waypoint>
-   <image_boss> </image_boss>
+   <image_boss>/Images/SvanirShaman_boss.jpg</image_boss>
  </boss>
 
  <boss>
@@ -82,7 +82,7 @@
    <pre>Take the centaurs' forward camp</pre>
    <pre_location> Greystone Rise</pre_location>
    <pre_waypoint>[&amp;BKcAAAA=]</pre_waypoint>
-   <image_boss> </image_boss>
+   <image_boss>/Images/Ulgoth_boss.jpg</image_boss>
  </boss>
 
  <boss>
@@ -106,7 +106,7 @@
    <pre>Disable the containers before they release their toxins</pre>
    <pre_location>Whitland Flats</pre_location>
    <pre_waypoint>[&amp;BNQCAAA=]</pre_waypoint>
-   <image_boss> </image_boss>
+   <image_boss>/Images/GolemMark_boss.jpg</image_boss>
  </boss>
 
  <boss>
@@ -118,7 +118,7 @@
    <pre>Protect Tor the Tall's supplies from the grawl</pre>
    <pre_location>Hunter's Lake</pre_location>
    <pre_waypoint>[&amp;BMIDAAA=]</pre_waypoint>
-   <image_boss> </image_boss>
+   <image_boss>/Images/SvanirShaman_boss.jpg</image_boss>
  </boss>
 
  <boss>
@@ -154,7 +154,7 @@
    <pre>Eliminate the cannons at the northern defensive tower</pre>
    <pre_location> Laughing Gull Island </pre_location>
    <pre_waypoint>[&amp;BKgBAAA=]</pre_waypoint>
-   <image_boss> </image_boss>
+   <image_boss>/Images/TaidhaCovington_boss.jpg</image_boss>
  </boss>
 
  <boss>
@@ -213,7 +213,7 @@
    <pre>Protect Tor the Tall's supplies from the grawl</pre>
    <pre_location>Hunter's Lake</pre_location>
    <pre_waypoint>[&amp;BMIDAAA=]</pre_waypoint>
-   <image_boss> </image_boss>
+   <image_boss>/Images/SvanirShaman_boss.jpg</image_boss>
  </boss>
 
  <boss>
@@ -225,7 +225,7 @@
    <pre>Take the centaurs' forward camp</pre>
    <pre_location> Greystone Rise</pre_location>
    <pre_waypoint>[&amp;BKcAAAA=]</pre_waypoint>
-   <image_boss> </image_boss>
+   <image_boss>/Images/Ulgoth_boss.jpg</image_boss>
  </boss>
 
  <boss>
@@ -249,7 +249,7 @@
    <pre>Disable the containers before they release their toxins</pre>
    <pre_location>Whitland Flats</pre_location>
    <pre_waypoint>[&amp;BNQCAAA=]</pre_waypoint>
-   <image_boss> </image_boss>
+   <image_boss>/Images/GolemMark_boss.jpg</image_boss>
  </boss>
 
  <boss>
@@ -297,7 +297,7 @@
    <pre>Eliminate the cannons at the northern defensive tower</pre>
    <pre_location> Laughing Gull Island </pre_location>
    <pre_waypoint>[&amp;BKgBAAA=]</pre_waypoint>
-   <image_boss> </image_boss>
+   <image_boss>/Images/TaidhaCovington_boss.jpg</image_boss>
  </boss>
 
  <boss>
@@ -309,7 +309,7 @@
    <pre>Protect Tor the Tall's supplies from the grawl</pre>
    <pre_location>Hunter's Lake</pre_location>
    <pre_waypoint>[&amp;BMIDAAA=]</pre_waypoint>
-   <image_boss> </image_boss>
+   <image_boss>/Images/SvanirShaman_boss.jpg</image_boss>
 </boss>
 
  <boss>
@@ -369,7 +369,7 @@
    <pre>Take the centaurs' forward camp</pre>
    <pre_location> Greystone Rise</pre_location>
    <pre_waypoint>[&amp;BKcAAAA=]</pre_waypoint>
-   <image_boss> </image_boss>
+   <image_boss>/Images/Ulgoth_boss.jpg</image_boss>
  </boss>
 
  <boss>
@@ -393,7 +393,7 @@
    <pre>Disable the containers before they release their toxins</pre>
    <pre_location>Whitland Flats</pre_location>
    <pre_waypoint>[&amp;BNQCAAA=]</pre_waypoint>
-   <image_boss> </image_boss>
+   <image_boss>/Images/GolemMark_boss.jpg</image_boss>
  </boss>
 
  <boss>
@@ -405,7 +405,7 @@
    <pre>Protect Tor the Tall's supplies from the grawl</pre>
    <pre_location>Hunter's Lake</pre_location>
    <pre_waypoint>[&amp;BMIDAAA=]</pre_waypoint>
-   <image_boss> </image_boss>
+   <image_boss>/Images/SvanirShaman_boss.jpg</image_boss>
  </boss>
 
  <boss>
@@ -441,7 +441,7 @@
    <pre>Eliminate the cannons at the northern defensive tower</pre>
    <pre_location> Laughing Gull Island </pre_location>
    <pre_waypoint>[&amp;BKgBAAA=]</pre_waypoint>
-   <image_boss> </image_boss>
+   <image_boss>/Images/TaidhaCovington_boss.jpg</image_boss>
  </boss>
 
  <boss>
@@ -501,7 +501,7 @@
    <pre>Protect Tor the Tall's supplies from the grawl</pre>
    <pre_location>Hunter's Lake</pre_location>
    <pre_waypoint>[&amp;BMIDAAA=]</pre_waypoint>
-   <image_boss> </image_boss>
+   <image_boss>/Images/SvanirShaman_boss.jpg</image_boss>
  </boss>
 
  <boss>
@@ -513,7 +513,7 @@
    <pre>Take the centaurs' forward camp</pre>
    <pre_location> Greystone Rise</pre_location>
    <pre_waypoint>[&amp;BKcAAAA=]</pre_waypoint>
-   <image_boss> </image_boss>
+   <image_boss>/Images/Ulgoth_boss.jpg</image_boss>
  </boss>
 
  <boss>
@@ -537,7 +537,7 @@
    <pre>Disable the containers before they release their toxins</pre>
    <pre_location>Whitland Flats</pre_location>
    <pre_waypoint>[&amp;BNQCAAA=]</pre_waypoint>
-   <image_boss> </image_boss>
+   <image_boss>/Images/GolemMark_boss.jpg</image_boss>
  </boss>
 
  <boss>
@@ -585,7 +585,7 @@
    <pre>Eliminate the cannons at the northern defensive tower</pre>
    <pre_location> Laughing Gull Island </pre_location>
    <pre_waypoint>[&amp;BKgBAAA=]</pre_waypoint>
-   <image_boss> </image_boss>
+   <image_boss>/Images/TaidhaCovington_boss.jpg</image_boss>
  </boss>
 
 <boss>
@@ -597,7 +597,7 @@
    <pre>Protect Tor the Tall's supplies from the grawl</pre>
    <pre_location>Hunter's Lake</pre_location>
    <pre_waypoint>[&amp;BMIDAAA=]</pre_waypoint>
-   <image_boss> </image_boss>
+   <image_boss>/Images/SvanirShaman_boss.jpg</image_boss>
  </boss>
 
  <boss>
@@ -657,7 +657,7 @@
    <pre>Take the centaurs' forward camp</pre>
    <pre_location> Greystone Rise</pre_location>
    <pre_waypoint>[&amp;BKcAAAA=]</pre_waypoint>
-   <image_boss> </image_boss>
+   <image_boss>/Images/Ulgoth_boss.jpg</image_boss>
  </boss>
 
  <boss>
@@ -681,7 +681,7 @@
    <pre>Disable the containers before they release their toxins</pre>
    <pre_location>Whitland Flats</pre_location>
    <pre_waypoint>[&amp;BNQCAAA=]</pre_waypoint>
-   <image_boss> </image_boss>
+   <image_boss>/Images/GolemMark_boss.jpg</image_boss>
  </boss>
 
  <boss>
@@ -693,7 +693,7 @@
    <pre>Protect Tor the Tall's supplies from the grawl</pre>
    <pre_location>Hunter's Lake</pre_location>
    <pre_waypoint>[&amp;BMIDAAA=]</pre_waypoint>
-   <image_boss> </image_boss>
+   <image_boss>/Images/SvanirShaman_boss.jpg</image_boss>
  </boss>
 
  <boss>
@@ -729,7 +729,7 @@
    <pre>Eliminate the cannons at the northern defensive tower</pre>
    <pre_location> Laughing Gull Island </pre_location>
    <pre_waypoint>[&amp;BKgBAAA=]</pre_waypoint>
-   <image_boss> </image_boss>
+   <image_boss>/Images/TaidhaCovington_boss.jpg</image_boss>
  </boss>
 
  <boss>
@@ -789,7 +789,7 @@
    <pre>Protect Tor the Tall's supplies from the grawl</pre>
    <pre_location>Hunter's Lake</pre_location>
    <pre_waypoint>[&amp;BMIDAAA=]</pre_waypoint>
-   <image_boss> </image_boss>
+   <image_boss>/Images/SvanirShaman_boss.jpg</image_boss>
  </boss>
 
  <boss>
@@ -801,7 +801,7 @@
    <pre>Take the centaurs' forward camp</pre>
    <pre_location> Greystone Rise</pre_location>
    <pre_waypoint>[&amp;BKcAAAA=]</pre_waypoint>
-   <image_boss> </image_boss>
+   <image_boss>/Images/Ulgoth_boss.jpg</image_boss>
  </boss>
 
  <boss>
@@ -825,7 +825,7 @@
    <pre>Disable the containers before they release their toxins</pre>
    <pre_location>Whitland Flats</pre_location>
    <pre_waypoint>[&amp;BNQCAAA=]</pre_waypoint>
-   <image_boss> </image_boss>
+   <image_boss>/Images/GolemMark_boss.jpg</image_boss>
  </boss>
 
  <boss>
@@ -872,7 +872,7 @@
    <pre>Eliminate the cannons at the northern defensive tower</pre>
    <pre_location> Laughing Gull Island </pre_location>
    <pre_waypoint>[&amp;BKgBAAA=]</pre_waypoint>
-   <image_boss> </image_boss>
+   <image_boss>/Images/TaidhaCovington_boss.jpg</image_boss>
  </boss>
 
  <boss>
@@ -884,7 +884,7 @@
    <pre>Protect Tor the Tall's supplies from the grawl</pre>
    <pre_location>Hunter's Lake</pre_location>
    <pre_waypoint>[&amp;BMIDAAA=]</pre_waypoint>
-   <image_boss> </image_boss>
+   <image_boss>/Images/SvanirShaman_boss.jpg</image_boss>
  </boss>
 
  <boss>
@@ -944,7 +944,7 @@
    <pre>Take the centaurs' forward camp</pre>
    <pre_location> Greystone Rise</pre_location>
    <pre_waypoint>[&amp;BKcAAAA=]</pre_waypoint>
-   <image_boss> </image_boss>
+   <image_boss>/Images/Ulgoth_boss.jpg</image_boss>
  </boss>
 
  <boss>
@@ -968,7 +968,7 @@
    <pre>Disable the containers before they release their toxins</pre>
    <pre_location>Whitland Flats</pre_location>
    <pre_waypoint>[&amp;BNQCAAA=]</pre_waypoint>
-   <image_boss> </image_boss>
+   <image_boss>/Images/GolemMark_boss.jpg</image_boss>
 </boss>
 
  <boss>
@@ -980,7 +980,7 @@
    <pre>Protect Tor the Tall's supplies from the grawl</pre>
    <pre_location>Hunter's Lake</pre_location>
    <pre_waypoint>[&amp;BMIDAAA=]</pre_waypoint>
-   <image_boss> </image_boss>
+   <image_boss>/Images/SvanirShaman_boss.jpg</image_boss>
  </boss>
 
 <boss>
@@ -1016,7 +1016,7 @@
    <pre>Eliminate the cannons at the northern defensive tower</pre>
    <pre_location> Laughing Gull Island </pre_location>
    <pre_waypoint>[&amp;BKgBAAA=]</pre_waypoint>
-   <image_boss> </image_boss>
+   <image_boss>/Images/TaidhaCovington_boss.jpg</image_boss>
  </boss>
 
  <boss>
@@ -1076,7 +1076,7 @@
    <pre>Protect Tor the Tall's supplies from the grawl</pre>
    <pre_location>Hunter's Lake</pre_location>
    <pre_waypoint>[&amp;BMIDAAA=]</pre_waypoint>
-   <image_boss> </image_boss>
+   <image_boss>/Images/SvanirShaman_boss.jpg</image_boss>
  </boss>
 
  <boss>
@@ -1088,7 +1088,7 @@
    <pre>Take the centaurs' forward camp</pre>
    <pre_location> Greystone Rise</pre_location>
    <pre_waypoint>[&amp;BKcAAAA=]</pre_waypoint>
-   <image_boss> </image_boss>
+   <image_boss>/Images/Ulgoth_boss.jpg</image_boss>
  </boss>
 
  <boss>
@@ -1112,7 +1112,7 @@
    <pre>Disable the containers before they release their toxins</pre>
    <pre_location>Whitland Flats</pre_location>
    <pre_waypoint>[&amp;BNQCAAA=]</pre_waypoint>
-   <image_boss> </image_boss>
+   <image_boss>/Images/GolemMark_boss.jpg</image_boss>
  </boss>
 
 <boss>
